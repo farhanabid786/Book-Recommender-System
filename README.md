@@ -33,8 +33,10 @@ An intelligent book recommendation system leveraging large language models (LLMs
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/book-recommender-system.git
-    cd book-recommender-system
+    [git clone https://github.com/yourusername/book-recommender-system.git
+    cd book-recommender-system]
+
+    (https://github.com/farhanabid786/Book-Recommender-System.git)
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
