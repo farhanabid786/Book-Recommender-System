@@ -74,10 +74,6 @@ Upload your book dataset, ask natural language queries, and get recommendations 
 - Zero-shot classification and sentiment analysis improve recommendation quality.
 - NVIDIA API Key is required for LLM inference.
 
-## 📄 License
-
-MIT License
-
 ---
 
 Made with ❤️ using Python and LLMs.
